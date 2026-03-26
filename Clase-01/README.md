@@ -15,6 +15,7 @@ En el texto se divide la forma de ver el mundo, como imagen y ejecución
 ## Tareas: 
 * Escribir 10 cualidades sobre dos objetos
   
+![GATO](ColganteGato.jpeg)
 ### Colgante de gato:
 * Gato
 * Chino
@@ -27,6 +28,7 @@ En el texto se divide la forma de ver el mundo, como imagen y ejecución
 * Tintineante
 * Acompañante de escritorio
 
+![Tijeras](TijeraEiffel.jpeg)
 ### Tijeras Torre Eiffel:
 * Metal
 * Pesadas
