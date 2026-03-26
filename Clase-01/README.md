@@ -1,14 +1,20 @@
 # Clase 01
 ## Apuntes de la clase
-* Como poner una imagen: 
+* Como poner una imagen:
 
+* Subir la imagen
+* Obtener la ruta: la ruta es solo el nombre de la imagen (ej: foto.png). O si está en una carpeta, carpeta/foto.png
+* Escribir esto: ![Texto descriptivo](nombre_de_la_imagen.p n g)
+* Y confirmar cambios
+
+![Perrito](PerroPepsi.jpg)
 
 Charla de "la estética como cosmología"
 En el texto se divide la forma de ver el mundo, como imagen y ejecución
 
-## Tarea: 
+## Tareas: 
 * Escribir 10 cualidades sobre dos objetos
-
+  
 ### Colgante de gato:
 * Gato
 * Chino
@@ -36,5 +42,10 @@ En el texto se divide la forma de ver el mundo, como imagen y ejecución
 ### Analizar las obras de Mateo Cereceda y Gabriela Inostroza en la muestra "Analog ROOT" de la galería de la universidad:
 
 "Donante universal", Mateo Cereceda
+
+![Obra de mateo](DonanteUniversal.png)
+
 "neoHaikus v2", Gabriela Inostroza
+
+![obra de gabriela](neohaikus.jpg)
 
