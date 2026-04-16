@@ -1,7 +1,8 @@
 # Clase 02
 
-### Processing:
-[
+### Solcito processing:
+
+``` processing
 int t1 = 10;
 int t2 = 40;
 int t3 = 15;
@@ -33,6 +34,4 @@ void draw() {
   fill(220,220,100);
   circle(150,150,tamano);
 }
-
-
-]
+```
