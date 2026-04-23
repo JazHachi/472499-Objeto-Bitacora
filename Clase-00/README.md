@@ -1,4 +1,4 @@
-# Clase 00
+# Clase-00
 
 ## Tarea: Apuntes dobre la tercera mesa de Graham Harman
 
