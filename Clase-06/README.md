@@ -13,5 +13,5 @@ Los objetos se ven afctados por las cualidades de otros objetos, los objetos per
 Haciendo metaforas, una operacion reflexiva(arte,filosofia) se pueden combinar objetos, combinando sus propiedades no esenciales. La metafora requiere una distacia, asi nacen mejores metaforas, nacen objetos otros, un objeto metaforico.
 Son relaciones que todas las personas perciben de maneras idstintas, las cualidades de los objetos tienen una relacion distinta con cada individuo.
 
-### como armar un prompt para hacer codigo con ia:
-darle la tarea, especificaciones 
+Tarea.
+investigar sobre hambre hambre hambre
