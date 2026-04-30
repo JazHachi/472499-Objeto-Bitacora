@@ -1,6 +1,6 @@
 # Clase 7
 
-elegir tres objetos de mi interes
+elegir tres objetos de mi interés:
 - El pelo
 - La poroto que es mi perro
 - Las muelas del juicio
@@ -14,4 +14,5 @@ La carta no me dio una direccion clara, pero agarrando la palabra "prosigue" que
 Seguir avanzando es un hecho de la mera existencia.
 
 **proponer una tabla de info**
+
 nose
