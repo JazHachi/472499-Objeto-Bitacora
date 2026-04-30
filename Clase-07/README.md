@@ -6,7 +6,9 @@ elegir tres objetos de mi interés:
 - Las muelas del juicio
 
 ## ejercicio narrativo
-1 frase: "Solo prosigue"
+**1 frase:**
+
+"Solo prosigue"
 
 **describir la relacion / reflexion:**
 
