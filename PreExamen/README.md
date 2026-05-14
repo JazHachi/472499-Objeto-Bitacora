@@ -8,5 +8,7 @@ Procedimiento: Mediante el uso de videos de personas recorriendo el Museo Violet
 Aplicación para lograr distorciones: Datamoshing
 
 Datos: Registros de video
+
 https://websim.com/@wilupguy/datamosh-lab-i-p-frame-style-smearing
+
 https://github.com/willbearfruits/datamosh-gui
