@@ -14,7 +14,7 @@ Datos: Registros de video
 
 Retribucion a MVP:
 
-Mini fanzine glitch: Recopitar frames del datamoshing en una mini publicacion digital y descargable para imprimir, donde hallan reflexiones sobre el cuerpo. Tambien es de interés agregar instrucciones de como corromper imagenes a travez del datamoshing para contribuir con la colaboracion colectiva y agregar algun archivo descargable del mismo fanzine para ser impreso por otras personas.
+Mini fanzine glitch: Recopitar frames del datamoshing en una mini publicacion digital y descargable para imprimir, donde hallan reflexiones sobre el cuerpo y el glitch. Tambien es de interés agregar instrucciones de como corromper imagenes a travez del datamoshing para contribuir con la colaboracion colectiva y agregar algun archivo descargable del mismo fanzine para ser impreso por otras personas.
 
 https://websim.com/@wilupguy/datamosh-lab-i-p-frame-style-smearing
 
